@@ -1,0 +1,23 @@
+    .ps5 {
+        border-style: groove inset outset dashed;
+    }
+    
+    .tips {
+        background: #ffdddd;
+        border: 4px dotted;
+        border-color: yellow red green blue;
+    }
+    
+    .carmodel {
+        border-style: solid;
+        border-color: red green blue yellow;
+        border-width: thick;
+    }
+    
+    body {
+        text-align: center;
+    }
+    
+    img {
+        height: 250px;
+    }
